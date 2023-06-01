@@ -1,1 +1,1 @@
-![final image](https://media.licdn.com/dms/image/C4D22AQFuik0hzgsmwQ/feedshare-shrink_8192/0?e=1565222400&v=beta&t=YgQK1Ierk222GcGWTUVlzDW6a8VrLSdUlKpKoCiIQhA)
+![final image](https://raw.githubusercontent.com/avibrazil/data-professions-competencies/8234d7e8362c7f72eae399efadbf67503c0dc67e/Data%20Profession%20Competencies.svg)
